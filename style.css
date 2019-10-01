@@ -1,0 +1,115 @@
+.subsection-hr{
+    width: 200px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.introduction-hr{
+    width: 400px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.skill-hr{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.bachelor-thesis-explain{
+    width: 250px;
+    margin: auto;
+}
+
+.sections{
+    border-radius: 15px;
+}
+
+.teaching-header{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    line-height: 0.1em;
+}
+
+.work-experience-header{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    line-height: 0.1em;
+}
+
+.text-teaching{
+    background: #fff;
+    font-size: 23px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #f8f9fa;
+}
+
+.teaching-explain{
+    width: 350px;
+    margin: auto;
+}
+
+.space-maker-work{
+    height: 30px;
+}
+
+.projects-header{
+    border-bottom: 1px solid black;
+    line-height: 0.1em;
+}
+
+.text-project{
+    font-size: 23px;
+    background-color: #f8f9fa;
+    padding: 30px;
+}
+
+.language-header , .skill-header , .research-interest-header{
+    border-bottom: 1px solid black;
+    line-height: 0.1em
+}
+
+.text-language , .text-skills , .text-research-interest{
+    font-size: 23px;
+    background-color: #f8f9fa;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.bold-bullet{
+    border-radius: 50%;
+    background-color: rgb(49, 48, 48);
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+}
+
+
+.light-bullet{
+    border-radius: 50%;
+    background-color: rgb(141, 139, 139);
+    height: 15px;
+    width: 15px;
+    display: inline-block;
+}
+
+.skill-name{
+    display: inline-block;
+    width: 100px;
+}
+
+.skill-management-name{
+    display: inline-block;
+    
+    width: 250px;
+}
+
+
+.block-chain-skill{
+    width: 100%;
+    margin: 0px;
+}
